@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://podimalabs.xyz/sitemap.xml
