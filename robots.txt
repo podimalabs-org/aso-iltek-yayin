@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://podimalabs.xyz/sitemap.xml
+Sitemap: https://podimalabs-org.github.io/aso-iltek-yayin/sitemap.xml
